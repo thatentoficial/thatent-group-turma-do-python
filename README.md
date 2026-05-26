@@ -1,2 +1,1 @@
-# thatent-group-turma-do-python
 Repositório oficial do grupo de estudos Turma do Python. Gestão de aprendizado colaborativo e versionamento inteligente via Thatent
